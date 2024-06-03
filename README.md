@@ -22,8 +22,6 @@ In this competition, your goal is to build a machine learning model that is able
 
 It is the job to predict if a customer will churn, given the ~170 columns containing customer behavior, usage patterns, payment patterns, and other features that might be relevant. Your target variable is "churn_probability"
 
-You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
-
 # Column description
 
 - Please refer to [data](https://www.kaggle.com/competitions/telecom-churn-case-study-hackathon/data) section of kaggle competition page.
